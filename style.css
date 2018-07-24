@@ -1,0 +1,59 @@
+body {	font-family: sans-serif, "Times New Roman", "Times Roman", serif;
+	font-size: 12pt;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	color: darkblue;
+	background-color: white;
+	background-repeat: repeat;
+      }
+a.item {	font-family: sans-serif, "Times New Roman", "Times Roman", serif; 
+	color: #003366;
+	font-weight: normal
+         }
+a.sub-menu {	font-family: sans-serif, "Times New Roman", "Times Roman", serif; 
+	color: #003366;
+	font-weight: normal
+      }
+a.menu {	font-family: sans-serif, "Times New Roman", "Times Roman", serif; 
+	color: #003366;
+	font-weight: normal
+      }
+h2 {	sans-serif, "Times New Roman", "Times Roman", serif;
+	color: #003366;
+	font-weight: normal;
+    }
+h3 {	sans-serif, "Times New Roman", "Times Roman", serif;
+	font-size: 16pt;
+	color: #003366;
+	font-weight: normal;
+    }
+h4 {	sans-serif, "Times New Roman", "Times Roman", serif;
+	font-size: 14pt;
+	color: #003366;
+	font-weight: normal;
+    }
+h5 {	sans-serif, "Times New Roman", "Times Roman", serif;
+	font-size: 12pt;
+	color: #003366;
+	font-weight: normal;
+    }
+p  { 	font-size: 12pt;
+		font-weight: normal;
+       }
+a:link  {color:darkblue; text-decoration: none;}
+a:visited  {color:darkblue; text-decoration: none;}
+a:active {color:darkblue; text-decoration: none;}
+a:hover {color:royalblue; text-decoration: underline;}
+a.menu:link    {color:#003366;font-size:20pt;font-family:"Sans-Serif";text-decoration:none;}
+a.menu:visited {color:#003366;font-size:20pt;font-family:"Sans-Serif";text-decoration:none;}
+a.menu:active  {color:#003366;font-size:20pt;font-family:"Sans-Serif";text-decoration:none;}
+a.menu:hover {color:royalblue;font-size:20pt;font-family:"Sans-Serif";text-decoration:none; position:relative; top:1; left:1}
+a.sub-menu:link    {color:#003366;font-size:14pt;font-family:"Sans-Serif";text-decoration:none;}
+a.sub-menu:visited {color:#003366;font-size:14pt;font-family:"Sans-Serif";text-decoration:none;}
+a.sub-menu:active  {color:#003366;font-size:14pt;font-family:"Sans-Serif";text-decoration:none;}
+a.sub-menu:hover {color:royalblue;font-size:14pt;font-family:"Sans-Serif";text-decoration:none; position:relative; top:1; left:1}
+a.item:link    {color:#003366;font-size:12pt;font-family:"Sans-Serif";text-decoration:none;}
+a.item:visited {color:#003366;font-size:12pt;font-family:"Sans-Serif";text-decoration:none;}
+a.item:active  {color:#003366;font-size:12pt;font-family:"Sans-Serif";text-decoration:none;}
+a.item:hover {color:royalblue;font-size:12pt;font-family:"Sans-Serif";text-decoration:none; position:relative; top:1; left:1}
